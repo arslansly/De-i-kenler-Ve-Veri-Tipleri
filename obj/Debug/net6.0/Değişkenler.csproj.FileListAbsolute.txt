@@ -1,0 +1,11 @@
+/Users/suleyman/Desktop/Klasörler/Değişkenler/bin/Debug/net6.0/Değişkenler
+/Users/suleyman/Desktop/Klasörler/Değişkenler/bin/Debug/net6.0/Değişkenler.dll
+/Users/suleyman/Desktop/Klasörler/Değişkenler/bin/Debug/net6.0/Değişkenler.pdb
+/Users/suleyman/Desktop/Klasörler/Değişkenler/obj/Debug/net6.0/Değişkenler.csproj.AssemblyReference.cache
+/Users/suleyman/Desktop/Klasörler/Değişkenler/obj/Debug/net6.0/Değişkenler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suleyman/Desktop/Klasörler/Değişkenler/obj/Debug/net6.0/Değişkenler.AssemblyInfoInputs.cache
+/Users/suleyman/Desktop/Klasörler/Değişkenler/obj/Debug/net6.0/Değişkenler.AssemblyInfo.cs
+/Users/suleyman/Desktop/Klasörler/Değişkenler/obj/Debug/net6.0/Değişkenler.csproj.CoreCompileInputs.cache
+/Users/suleyman/Desktop/Klasörler/Değişkenler/obj/Debug/net6.0/Değişkenler.dll
+/Users/suleyman/Desktop/Klasörler/Değişkenler/obj/Debug/net6.0/refint/Değişkenler.dll
+/Users/suleyman/Desktop/Klasörler/Değişkenler/obj/Debug/net6.0/Değişkenler.pdb
